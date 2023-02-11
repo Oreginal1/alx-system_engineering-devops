@@ -1,0 +1,4 @@
+#!/bin/
+
+
+cat < /dev/tcp/towel.blinkenlights.nl/23
